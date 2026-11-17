@@ -3,25 +3,5 @@
     "key": "txtInput",
     "value": "login-email-input",
     "type": "id"
-  },
-  {
-    "key": "h3Check",
-    "value": "//h3[contains(text(),\"Testinium\")]",
-    "type": "xpath"
-  },
-  {
-    "key": "logo",
-    "value": "//*[@id=\"nav-logo\"]",
-    "type": "xpath"
-  },
-  {
-    "key": "search",
-    "value": "//*[@id=\"nav-search-submit-button\"]",
-    "type": "xpath"
-  },
-  {
-    "key": "searchbar",
-    "value": "//*[@id=\"twotabsearchtextbox\"]",
-    "type": "xpath"
   }
 ]
